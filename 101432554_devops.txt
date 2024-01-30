@@ -1,2 +1,5 @@
 #This file will contain information about COMP 2156 DevOps course.
 
+The DevOps course helps students learn how to work better together in software development and operations teams. It teaches ways for these teams to collaborate more effectively in order to create high-quality software. It focuses on using automation, continuous integration, continuous deployment, and effective systems operations.
+In this course, students learn how to make software development faster and better, so that systems are more reliable and can grow as needed.The course often includes hands-on practice with popular tools like Jenkins, Docker, and Kubernetes, getting students ready for real-world challenges in the quickly changing DevOps industry.
+This course is important for people who want to bring together development and operational tasks, encouraging efficiency and innovation in the technology field.
