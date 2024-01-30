@@ -1,1 +1,5 @@
-This file will contain information about George Brown college.
+#This file will contain information about George Brown college.
+
+George Brown College, located in the heart of downtown Toronto. The organization is widely recognized for its business connections and projects focused on career advancement.George Brown College provides a wide variety of programs in areas including business, arts and design, engineering technologies, and health sciences. 
+Renowned for its practical learning approach, the college equips students with hands-on experience and directly applicable skills for the workplace.The college places a strong emphasis on inclusivity and prides itself on having a lively, multicultural student community, making it an excellent option for both local and 
+international students looking for a well-rounded educational experience in a major urban setting.
