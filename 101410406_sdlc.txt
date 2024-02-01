@@ -12,3 +12,23 @@ Efficiency and Automation: DevOps encourages the automation of repeated processe
 which reduces manual errors while increasing overall efficiency. Automation in testing, 
 deployment, and infrastructure management enables teams to produce software more consistently 
 and quickly.
+
+DevOps Engineer:
+
+Entry Level: $70,000 - $100,000 per year
+Mid-Level: $90,000 - $120,000 per year
+Senior Level: $110,000 - $150,000+ per year
+Site Reliability Engineer (SRE):
+
+Entry Level: $80,000 - $110,000 per year
+Mid-Level: $100,000 - $130,000 per year
+Senior Level: $120,000 - $160,000+ per year
+DevOps Manager:
+
+Mid-Level: $100,000 - $130,000 per year
+Senior Level: $120,000 - $160,000+ per year
+Cloud Engineer (with DevOps skills):
+
+Entry Level: $70,000 - $100,000 per year
+Mid-Level: $90,000 - $120,000 per year
+Senior Level: $110,000 - $150,000+ per year
