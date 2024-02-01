@@ -7,3 +7,9 @@ Business needs. COMP 3104 offers practical expertise with DevOps tools that have
 We will analyze how DevOps tactics have impacted firms' financial success or failure. Learning about
  Amazon Web Services, Ansible, Docker, and Travis CI will help you understand the entire deployment process. With your own build pipeline, you can easily deploy updates to a live web app.
 Effective DevOps methods enable easy code delivery to production.
+
+How to Succeed
+Your success in this course relies on three things:
+1. Your lab and lecture attendance
+2. Completion of lecture quizzes
+3. Following weekly lab exercises
