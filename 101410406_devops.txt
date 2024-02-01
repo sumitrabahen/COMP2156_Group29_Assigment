@@ -1,0 +1,9 @@
+This course is intended to better prepare individuals entering the IT field.
+
+Specifically, a field in which servers, online apps, and infrastructure will be central.
+
+Business needs. COMP 3104 offers practical expertise with DevOps tools that have been proven effective.
+
+We will analyze how DevOps tactics have impacted firms' financial success or failure. Learning about
+ Amazon Web Services, Ansible, Docker, and Travis CI will help you understand the entire deployment process. With your own build pipeline, you can easily deploy updates to a live web app.
+Effective DevOps methods enable easy code delivery to production.
