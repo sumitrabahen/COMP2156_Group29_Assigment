@@ -1,5 +1,11 @@
 #This file will contain information about COMP 2156 DevOps course.
 
-The DevOps course helps students learn how to work better together in software development and operations teams. It teaches ways for these teams to collaborate more effectively in order to create high-quality software. It focuses on using automation, continuous integration, continuous deployment, and effective systems operations.
-In this course, students learn how to make software development faster and better, so that systems are more reliable and can grow as needed.The course often includes hands-on practice with popular tools like Jenkins, Docker, and Kubernetes, getting students ready for real-world challenges in the quickly changing DevOps industry.
+The DevOps course helps students learn how to work better together in software development and operations teams. It teaches ways for these teams to collaborate more effectively in order to create high-quality software. 
+It focuses on using automation, continuous integration, continuous deployment, and effective systems operations.
+In this course, students learn how to make software development faster and better, so that systems are more reliable and can grow as needed.
+The course often includes hands-on practice with popular tools like Jenkins, Docker, and Kubernetes, getting students ready for real-world challenges in the quickly changing DevOps industry.
 This course is important for people who want to bring together development and operational tasks, encouraging efficiency and innovation in the technology field.
+The course places a strong emphasis on CI/CD's role in sustaining rapid development without compromising quality. 
+Students get knowledge on how to regularly integrate code into a shared repository and reliably and automatically deploy apps.
+In order to educate students for the intricacies of contemporary software development and operations, the DevOps course provides a comprehensive education. 
+Graduates become well-rounded professionals who can improve the effectiveness, dependability, and success of IT projects across numerous sectors.
