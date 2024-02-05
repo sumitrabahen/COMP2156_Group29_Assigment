@@ -1,0 +1,23 @@
+DevOps is a model for IT service management. IT Ops has evolved through several phases over the past few decades. 
+
+From the early days of manual O&M to standardized O&M, automated O&M, to today's DevOps and AIOps.
+
+In short, DevOps tries to break through the departmental walls of development and operation and maintenance, 
+
+so as to open up the entire IT value delivery lifecycle, 
+
+and realize efficiency improvement from product requirements to the whole process of online operation and maintenance.
+
+The most significant role of DevOps is to improve the quality of enterprise product delivery, shorten the development cycle, and reduce failures. 
+
+And cost reduction and efficiency is a big challenge for every company after digital transformation, DevOps undoubtedly hits the pain point directly.
+
+As a DevOps engineer, in addition to having the basic programming skills of a software engineer, you also need specific interpersonal and tooling skills.
+
+DevOps is a collaborative approach across software development, testing and deployment.
+
+It brings together small teams of developers, testers, and ops with different goals to achieve more efficient and high-quality code releases, 
+ 
+which requires that there be no communication barriers between the different roles in the DevOps process. 
+
+Therefore, good communication skills (both verbal and written) are essential for good DevOps engineers.
