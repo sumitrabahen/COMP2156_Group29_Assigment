@@ -21,3 +21,5 @@ It brings together small teams of developers, testers, and ops with different go
 which requires that there be no communication barriers between the different roles in the DevOps process. 
 
 Therefore, good communication skills (both verbal and written) are essential for good DevOps engineers.
+
+DevOps encompasses development and operations, and is a general term for development and operations and maintenance. 
