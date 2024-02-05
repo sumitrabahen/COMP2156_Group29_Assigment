@@ -32,3 +32,7 @@ Software development based on devops originated from the traditional IT model in
 
 and plays a key role in solving operation and maintenance management problems. 
 
+In order to consolidate the results of software design and development, the combination of development, operation 
+
+and maintenance and testing together, formed the DevOps software development management model.
+
