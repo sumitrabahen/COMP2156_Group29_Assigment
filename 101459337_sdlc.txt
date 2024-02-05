@@ -45,3 +45,5 @@ DevOps based on a global perspective, to analyze the development effect, strengt
 and communication between personnel is also the focus of the software development design work, should be reasonable arrangements.
 
 Under the devops framework, the development of software can be automated, making the application of human-computer interaction solutions feasible.
+
+The introduction of DevOps can have a profound impact on product delivery, testing, feature development and maintenance.
