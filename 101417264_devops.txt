@@ -1,0 +1,4 @@
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). The main goal is to shorten the development lifecycle and deliver high-quality software continuously. DevOps involves collaboration between developers and IT professionals to automate processes, improve efficiency, and enhance communication and collaboration.
+Common topics covered in this course are version control systems, continuous integration and continuous deployment, infrastructure as code, containerization, etc.
+Outcome:
+Upon completion of the course, students are expected to have a solid understanding of DevOps principles and be capable of implementing DevOps practices in real-world scenarios.
