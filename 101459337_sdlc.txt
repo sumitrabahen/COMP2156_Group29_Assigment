@@ -39,3 +39,7 @@ and maintenance and testing together, formed the DevOps software development man
 Based on DevOps software development can be applied to the test environment, 
 
 and at the same time, the data package can be integrated into the software environment.
+
+DevOps based on a global perspective, to analyze the development effect, strengthen the cooperation 
+
+and communication between personnel is also the focus of the software development design work, should be reasonable arrangements.
