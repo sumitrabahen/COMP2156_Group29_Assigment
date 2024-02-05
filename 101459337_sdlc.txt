@@ -47,3 +47,9 @@ and communication between personnel is also the focus of the software developmen
 Under the devops framework, the development of software can be automated, making the application of human-computer interaction solutions feasible.
 
 The introduction of DevOps can have a profound impact on product delivery, testing, feature development and maintenance.
+
+In organizations that lack DevOps capabilities, there is an information gap between development and operations 
+
+for example, operations staff want better reliability and security, developers want a more responsive infrastructure, 
+
+and business users want to get more features out to end users faster. This information gap is where things go wrong most often.
