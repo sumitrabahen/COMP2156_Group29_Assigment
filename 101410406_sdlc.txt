@@ -1,0 +1,57 @@
+DevOps prioritizes collaboration and communication across development, operations, 
+and other stakeholders. DevOps engineers help to bridge the gap between these traditionally 
+isolated teams, promoting better communication and collaboration.
+
+Faster Delivery: Continuous integration and continuous delivery (CI/CD) are DevOps approaches 
+that automate and streamline software development and deployment processes. 
+This results in speedier software delivery, allowing businesses to adapt swiftly to 
+market developments and consumer needs.
+
+
+Efficiency and Automation: DevOps encourages the automation of repeated processes, 
+which reduces manual errors while increasing overall efficiency. Automation in testing, 
+deployment, and infrastructure management enables teams to produce software more consistently 
+and quickly.
+
+DevOps Engineer:
+
+Entry Level: $70,000 - $100,000 per year
+Mid-Level: $90,000 - $120,000 per year
+Senior Level: $110,000 - $150,000+ per year
+Site Reliability Engineer (SRE):
+
+Entry Level: $80,000 - $110,000 per year
+Mid-Level: $100,000 - $130,000 per year
+Senior Level: $120,000 - $160,000+ per year
+DevOps Manager:
+
+Mid-Level: $100,000 - $130,000 per year
+Senior Level: $120,000 - $160,000+ per year
+Cloud Engineer (with DevOps skills):
+
+Entry Level: $70,000 - $100,000 per year
+Mid-Level: $90,000 - $120,000 per year
+Senior Level: $110,000 - $150,000+ per year
+
+
+Certifications in DevOps can enhance your skills, validate your expertise, and make you more 
+competitive in the job market. Here are some popular DevOps-related certifications:
+
+AWS Certified DevOps Engineer:
+
+Offered by: Amazon Web Services (AWS)
+Description: Validates technical expertise in provisioning, operating, and managing distributed 
+application systems on the AWS platform. It covers various DevOps practices and tools.
+Prerequisites: AWS Certified SysOps Administrator - Associate or AWS Certified Developer - Associate
+Microsoft Certified: Azure DevOps Engineer Expert:
+
+Offered by: Microsoft
+Description: Focuses on Azure DevOps services, covering areas like version control, build 
+infrastructure, deployment strategies, and release management.
+Prerequisites: Azure Administrator Associate or Azure Developer Associate
+Docker Certified Associate:
+
+Offered by: Docker
+Description: Validates knowledge and skills with Docker, including container orchestration, 
+networking, security, and image creation.
+Prerequisites: Recommended six to twelve months of Docker experience
