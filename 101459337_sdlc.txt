@@ -36,3 +36,6 @@ In order to consolidate the results of software design and development, the comb
 
 and maintenance and testing together, formed the DevOps software development management model.
 
+Based on DevOps software development can be applied to the test environment, 
+
+and at the same time, the data package can be integrated into the software environment.
