@@ -23,3 +23,8 @@ which requires that there be no communication barriers between the different rol
 Therefore, good communication skills (both verbal and written) are essential for good DevOps engineers.
 
 DevOps encompasses development and operations, and is a general term for development and operations and maintenance. 
+
+In the process of software design, the development department and operation and maintenance department should be 
+
+coordinated to ensure the efficient use of various workflows and methods, and provide a reliable reference for project management. 
+
