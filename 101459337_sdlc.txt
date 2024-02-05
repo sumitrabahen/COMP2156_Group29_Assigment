@@ -28,3 +28,7 @@ In the process of software design, the development department and operation and 
 
 coordinated to ensure the efficient use of various workflows and methods, and provide a reliable reference for project management. 
 
+Software development based on devops originated from the traditional IT model in Europe in 2009, 
+
+and plays a key role in solving operation and maintenance management problems. 
+
