@@ -1,0 +1,18 @@
+DevOps (a portmanteau of Development and Operations) is an umbrella term for a set of processes, 
+
+methods, and systems that facilitate communication, collaboration, and integration between 
+
+development (application/software engineering), technical operations, and quality assurance (QA) departments.
+
+It is a culture, movement, or practice that emphasizes communication 
+
+and collaboration between "software developers (Dev)" and "IT operations technicians (Ops)".
+
+It enables building, testing, and releasing software faster, more frequently, 
+
+and more reliably by automating the processes of software delivery and architecture change.
+
+It emerged as the software industry increasingly recognized that development 
+
+and operations must work closely together to deliver software products and services on time.
+
