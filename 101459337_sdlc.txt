@@ -43,3 +43,5 @@ and at the same time, the data package can be integrated into the software envir
 DevOps based on a global perspective, to analyze the development effect, strengthen the cooperation 
 
 and communication between personnel is also the focus of the software development design work, should be reasonable arrangements.
+
+Under the devops framework, the development of software can be automated, making the application of human-computer interaction solutions feasible.
