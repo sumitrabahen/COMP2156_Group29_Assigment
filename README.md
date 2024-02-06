@@ -1,6 +1,9 @@
-Hello
+My name is Rushilkumar Shiroya, and I am the group's leader.  
+Our group members created their own branches,  
+added three files, and ten relevant commit statements as per the project handbook. 
+We updated our local branch and linked the repository with Git hub actions.
 
-<!---
-sumitrabahen/sumitrabahen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+here is the name of the other group member 
+Patel, Srushti Harshadbhai
+Patel, Riyaben Ashishkumar
+Xia, Yuzhe
